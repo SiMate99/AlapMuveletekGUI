@@ -121,8 +121,9 @@ namespace AlapMuveletek
             // szorzásToolStripMenuItem
             // 
             this.szorzásToolStripMenuItem.Name = "szorzásToolStripMenuItem";
-            this.szorzásToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
+            this.szorzásToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.szorzásToolStripMenuItem.Text = "Szorzás";
+            this.szorzásToolStripMenuItem.Click += new System.EventHandler(this.szorzásToolStripMenuItem_Click);
             // 
             // osztásToolStripMenuItem
             // 
@@ -186,6 +187,7 @@ namespace AlapMuveletek
             this.btMegoldas.TabIndex = 10;
             this.btMegoldas.Text = "Megoldas";
             this.btMegoldas.UseVisualStyleBackColor = true;
+            this.btMegoldas.Click += new System.EventHandler(this.btMegoldas_Click);
             // 
             // tbEredmeny
             // 

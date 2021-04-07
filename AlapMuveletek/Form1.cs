@@ -40,13 +40,26 @@ namespace AlapMuveletek
                 tbEredmeny.Text = "Rossz Megoldás!";
             }
         }
+
+        private void szorzásToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            muvelet = "szorzas";
+            Legeneral();
+        }
+
         private void Legeneral()
         {
-            elso = 5;
-            masodik = 5;
+
+            Random rnd = new Random();
+            elso = rnd.Next(0, 100);
+            masodik = rnd.Next(0, 100);
+            //elso = 5;
+            //masodik = 5;
             if (muvelet.Equals("osztas"))
             {
-                eredmeny = elso / masodik;
+                eredmeny = rnd.Next(1, 10);
+                masodik = rnd.Next(1, 10);
+                elso = eredmeny * masodik;
                 tbFeladat.Text = $"{elso}/{masodik}";
             }
             else if (muvelet.Equals("szorzas"))
@@ -66,6 +79,9 @@ namespace AlapMuveletek
             }
         }
 
-
+        private void btMegoldas_Click(object sender, EventArgs e)
+        {
+            tbEredmeny.Text = eredmeny.ToString();
+        }
     }
 }
