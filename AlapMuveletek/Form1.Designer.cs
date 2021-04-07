@@ -150,10 +150,10 @@ namespace AlapMuveletek
             // 
             this.lbStatisztika.FormattingEnabled = true;
             this.lbStatisztika.Items.AddRange(new object[] {
-            "Összeadás:",
-            "Kivonás:",
-            "Szorzás:",
-            "Osztás:"});
+            "Összeadás: 0/0",
+            "Kivonás: 0/0",
+            "Szorzás: 0/0",
+            "Osztás: 0/0"});
             this.lbStatisztika.Location = new System.Drawing.Point(16, 231);
             this.lbStatisztika.Name = "lbStatisztika";
             this.lbStatisztika.Size = new System.Drawing.Size(120, 95);
