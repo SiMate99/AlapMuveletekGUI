@@ -40,7 +40,6 @@ namespace AlapMuveletek
                 tbEredmeny.Text = "Rossz Megoldás!";
             }
         }
-
         private void Legeneral()
         {
             elso = 5;
@@ -50,7 +49,7 @@ namespace AlapMuveletek
                 eredmeny = elso / masodik;
                 tbFeladat.Text = $"{elso}/{masodik}";
             }
-            else if(muvelet.Equals("szorzas"))
+            else if (muvelet.Equals("szorzas"))
             {
                 eredmeny = elso * masodik;
                 tbFeladat.Text = $"{elso}*{masodik}";
