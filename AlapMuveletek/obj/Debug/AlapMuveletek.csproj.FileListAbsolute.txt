@@ -1,0 +1,10 @@
+D:\SULI\PROGRAMOZAS\VIsualStudio\Feladat0407\AlapMuveletek\bin\Debug\AlapMuveletek.exe.config
+D:\SULI\PROGRAMOZAS\VIsualStudio\Feladat0407\AlapMuveletek\bin\Debug\AlapMuveletek.exe
+D:\SULI\PROGRAMOZAS\VIsualStudio\Feladat0407\AlapMuveletek\bin\Debug\AlapMuveletek.pdb
+D:\SULI\PROGRAMOZAS\VIsualStudio\Feladat0407\AlapMuveletek\obj\Debug\AlapMuveletek.csprojAssemblyReference.cache
+D:\SULI\PROGRAMOZAS\VIsualStudio\Feladat0407\AlapMuveletek\obj\Debug\AlapMuveletek.Form1.resources
+D:\SULI\PROGRAMOZAS\VIsualStudio\Feladat0407\AlapMuveletek\obj\Debug\AlapMuveletek.Properties.Resources.resources
+D:\SULI\PROGRAMOZAS\VIsualStudio\Feladat0407\AlapMuveletek\obj\Debug\AlapMuveletek.csproj.GenerateResource.cache
+D:\SULI\PROGRAMOZAS\VIsualStudio\Feladat0407\AlapMuveletek\obj\Debug\AlapMuveletek.csproj.CoreCompileInputs.cache
+D:\SULI\PROGRAMOZAS\VIsualStudio\Feladat0407\AlapMuveletek\obj\Debug\AlapMuveletek.exe
+D:\SULI\PROGRAMOZAS\VIsualStudio\Feladat0407\AlapMuveletek\obj\Debug\AlapMuveletek.pdb
